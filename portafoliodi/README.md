@@ -1,16 +1,41 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌐 Portafolio Personal — Alisson Quiguango
 
-Currently, two official plugins are available:
+Portafolio web personal desarrollado con React y Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🔗 Demo
+[Ver portafolio en Netlify](https://portafolio-alisson-quiguango.netlify.app/)
 
-## React Compiler
+## 🛠️ Tecnologías usadas
+- React
+- Vite
+- CSS3
+- JavaScript
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📁 Estructura del proyecto
+src/
+├── components/
+│   ├── header/
+│   ├── main/
+│   ├── about/
+│   ├── project/
+│   └── contact/
+└── assets/
 
-## Expanding the ESLint configuration
+## ⚙️ Cómo correr el proyecto
+```bash
+npm install
+npm run dev
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Secciones
+- **Inicio** — Presentación
+- **Sobre mí** — Información personal
+- **Proyectos** — Aquí Nomás
+- **Contáctame** — Redes sociales
+
+## 📸 Vista previa
+![Portafolio Alisson](./screenshot.png)
+
+## 👩‍💻 Autora
+Alisson Quiguango — [@loorenna](https://github.com/loorenna)
