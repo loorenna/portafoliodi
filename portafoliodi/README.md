@@ -13,6 +13,7 @@ Portafolio web personal desarrollado con React y Vite.
 - JavaScript
 
 ## 📁 Estructura del proyecto
+```
 src/
 ├── components/
 │   ├── header/
@@ -21,6 +22,7 @@ src/
 │   ├── project/
 │   └── contact/
 └── assets/
+```
 
 ## ⚙️ Cómo correr el proyecto
 ```bash
